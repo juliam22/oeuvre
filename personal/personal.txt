@@ -1,0 +1,6 @@
+Personal Projects Contents:
+
+1. NewGame 
+  - started: August 2 
+  - completed:
+  - Platformer game 
